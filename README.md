@@ -7,6 +7,6 @@
     <title>Mapa Interactivo</title>
 </head>
 <body>
-    <iframe src="https://www.google.com/maps/d/u/0/edit?mid=1t0ZuyYkVUR9lq5h4y81Mb4SCaofFx20&usp=sharing" width="600" height="450"></iframe>
+    <iframe src="https://maps.app.goo.gl/howECUjQnfTnyaQj6" width="600" height="450"></iframe>
 </body>
 </html>
